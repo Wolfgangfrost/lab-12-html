@@ -6,6 +6,9 @@ text-decoration: line-through;
 h1{
   color: green;
   text-decoration: uppercase;
+  margin: 20px
+  border:dashed red 5px;
+  padding: 40px;
 }
 h2{
   color: orange;
@@ -13,8 +16,14 @@ h2{
 }
 
 h1, h2{
-  back-ground: grey;
+  background: grey;
 }
 body{
   font-family: fantasy;
+}
+#myintro{
+  border: 1px solid black;
+}
+.spotlight{
+  background-color: yellow;
 }
